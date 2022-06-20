@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kaushik Rajbongshi
-- 👀 I’m interested in : Coding, Video Games, New new Programming Language.
+- 👀 I’m interested in : Coding, Video Games,Learning new new Programming Language.
 - 🌱 I’m currently learning : Coding.
 
 <!---
